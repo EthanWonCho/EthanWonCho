@@ -2,7 +2,7 @@
 - 👀 I’m interested in doing something with computer 
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on making esoteric programming language
-- 📫 How to reach me realethanwoncho@gmail.com
+- 📫 Reach me by email: realethanwoncho@gmail.com
 
 <!---
 EthanWonCho/EthanWonCho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
