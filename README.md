@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @EthanWonCho
-- 👀 I’m interested in Mathmatics
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on making OS
 - 📫 Reach me by email: ethanwonc@icloud.com
 
 <!---
